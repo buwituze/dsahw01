@@ -1,0 +1,1 @@
+- Location of output integers according to corresponding the sample inputs files
